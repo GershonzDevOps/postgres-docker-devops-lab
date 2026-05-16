@@ -61,6 +61,21 @@ http://localhost:5050
 SELECT * FROM employees;
 ```
 
+## Screenshots
+
+### pgAdmin Dashboard
+
+![pgAdmin Dashboard](screenshots/pgadmin-dashboard.png)
+
+### Employee Database Query
+
+![Employee Query](screenshots/employee-query.png)
+
+### Running Docker Containers
+
+![Docker Containers](screenshots/docker-containers.png)
+
+
 ## Author
 
 Gershon Zormelo
